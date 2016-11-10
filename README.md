@@ -10,9 +10,11 @@ print s
 ```
 
 
-| day        | Hour           | MAX/MINCool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| day     | Hour          | MAX/MIN |
+|-------- |:-------------:| -----:|
+| 12      | 00:00 | 12 |  9 |
+| 13      | 00:00      |   $12 |
+| 14      | 00:00      |    $1 |
+| 15      | 00:00 |    $1 |
+
 
